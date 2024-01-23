@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+
+}
+button{
+    background-color:rgb(179, 188, 204);
+    
+}
+.b1:hover {
+color: pink
+}
